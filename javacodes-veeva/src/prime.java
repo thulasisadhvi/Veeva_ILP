@@ -1,4 +1,4 @@
-/*Q2. Prime Numbers in a Range – Moderate
+package src;/*Q2. Prime Numbers in a Range – Moderate
 Problem: Print all prime numbers between L and R, inclusive, in ascending order. If no prime exists,
 print None. Constraints: 1 ≤ L ≤ R ≤ 100000.*/
 

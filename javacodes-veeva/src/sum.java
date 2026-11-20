@@ -1,4 +1,4 @@
-/*Q1. Sum of Digits – Easy
+package src;/*Q1. Sum of Digits – Easy
 Problem: Read an integer N and print the sum of its digits. Treat a negative number using its absolute
 value.*/
 

@@ -1,4 +1,4 @@
-/*Q3. Electricity Bill Calculator – Easy
+package src;/*Q3. Electricity Bill Calculator – Easy
         Problem: Calculate a domestic electricity bill using slabs: first 100 units at ₹1.5/unit, next 100 at
         ₹2.5/unit, and units above 200 at ₹4/unit. Add a fixed charge of ₹50. Units are non-negative; print the
         bill with two decimal places.*/
