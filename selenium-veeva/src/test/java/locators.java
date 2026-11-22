@@ -33,7 +33,7 @@ public class locators {
 
         //classname- locator
         List< WebElement> Totalproducts=driver.findElements(By.className("inventory_item"));
-        System.out.println("totalproducts "+Totalproducts.size());
+        System.out.println("totalproducts id"+Totalproducts.size());
 
         //tagname -locator
         List<WebElement> Totalimages=driver.findElements(By.tagName("img"));
