@@ -1,5 +1,4 @@
-
-/*
+package basics;/*
 test case-1
 validate whether https://www.gst.gov.in/
 has title="Goods & Services Tax (GST) | Home"

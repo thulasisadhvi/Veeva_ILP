@@ -1,4 +1,5 @@
-import org.openqa.selenium.By;
+package basics;
+
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class webdriver {
